@@ -1,3 +1,5 @@
+[![Build Status](https://ilhyuk.visualstudio.com/test%20pipeline/_apis/build/status/test%20pipeline-CI)](https://ilhyuk.visualstudio.com/test%20pipeline/_build/latest?definitionId=3)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
